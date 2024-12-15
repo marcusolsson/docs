@@ -3762,11 +3762,9 @@
             }
           },
           "404": {
-            "detail": "Consent request not found",
             "description": "Not Found"
           },
           "400": {
-            "detail": "Retrieving consent preferences without identity verification is only supported with disable_consent_identity_verification set to true",
             "description": "Bad Request"
           },
           "422": {
