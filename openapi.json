@@ -3759,20 +3759,7 @@
               "application/json": {
                 "schema": { "$ref": "#/components/schemas/ConsentPreferences" }
               }
-            },
-            "consent": [
-              {
-                "data_use": "marketing.advertising",
-                "data_use_description": "We may use some of your personal information for advertising performance analysis and audience modeling for ongoing advertising which may be interpreted as 'Data Sharing' under some regulations.",
-                "opt_in": true,
-                "highlight": false
-              },
-              {
-                "data_use": "functional",
-                "data_use_description": "We may use some of your personal information to collect analytics about how you use our products & services, in order to improve our service.",
-                "opt_in": false
-              }
-            ]
+            }
           },
           "404": {
             "detail": "Consent request not found",
