@@ -29,7 +29,7 @@
     {
       "name": "API Reference",
       "url": "api-reference",
-      "openapi": "/openapi.json"
+      "openapi": "https://raw.githubusercontent.com/marcusolsson/docs/refs/heads/main/openapi.json"
     }
   ],
   "anchors": [
